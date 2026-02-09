@@ -3,4 +3,5 @@ Lesson Plan on RNA Seq Analysis: https://github.com/sabahzero/Lesson-Plan_RNA-Se
 UCMerced Data Carpentry Lessons: https://github.com/sabahzero/UCMerced_DataCarpentry <br/>
 Data Visualization Workshops: https://github.com/sabahzero/dataviz <br/>
 Writing Cleaner Code Workshop: https://github.com/sabahzero/writing-cleaner-code <br/>
+Applied Bioinformatics: https://github.com/SuLab/Applied-Bioinformatics/tree/Fall-2020 <br/>
 UPR Mayaguez QIIME2 Workshop: https://github.com/sabahzero/UPRM_QIIME2workshop
